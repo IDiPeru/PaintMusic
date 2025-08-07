@@ -1,2 +1,2 @@
 # PaintMusic
-Music generation based on image creation.
+Music generation based on images.
